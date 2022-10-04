@@ -2,1216 +2,1216 @@
   {
     "id": "ethereum-ecosystem",
     "name": "Ethereum Ecosystem",
-    "market_cap": 410578981485.0977,
-    "market_cap_change_24h": 2.286294175607924,
+    "market_cap": 408963835334.48334,
+    "market_cap_change_24h": 0.515439598405935,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
     ],
-    "volume_24h": 53306813937.867195,
-    "updated_at": "2022-10-04T05:19:36.907Z",
+    "volume_24h": 58548784906.053825,
+    "updated_at": "2022-10-03T23:56:57.466Z",
     "rank": 1
   },
   {
     "id": "smart-contract-platform",
     "name": "Smart Contract Platform",
-    "market_cap": 294884727378.35876,
-    "market_cap_change_24h": 2.9421661699788415,
+    "market_cap": 293900246866.8104,
+    "market_cap_change_24h": 0.9444638106099117,
     "content": "Smart contract platforms are usually blockchains that host smart contracts or decentralized applications. Users can interact with different smart contracts on these platforms to perform various actions such as lending and borrowing funds, staking their assets or minting NFTs.\r\n\r\nSmart contracts are programs that are stored on the blockchain and are automatically executed when certain conditions are met. To interact with these smart contracts, transaction fees may need to be paid and the amount and asset required will vary based on the platform\u2019s architecture. Usually, the smart contract platform\u2019s native token is used to pay for transaction fees. Some popular examples of smart contract platforms include Ethereum, Solana and Polygon.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880",
       "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
       "https://assets.coingecko.com/coins/images/975/small/cardano.png?1547034860"
     ],
-    "volume_24h": 13438832669.283346,
-    "updated_at": "2022-10-04T05:18:34.754Z",
+    "volume_24h": 14170295173.600557,
+    "updated_at": "2022-10-03T23:56:38.928Z",
     "rank": 2
   },
   {
     "id": "binance-smart-chain",
     "name": "BNB Chain Ecosystem",
-    "market_cap": 246187623056.0971,
-    "market_cap_change_24h": 0.7254433078557534,
+    "market_cap": 245421311650.86523,
+    "market_cap_change_24h": 0.3646151184679199,
     "content": "BNB Chain is an alternative blockchain that is similar to Ethereum. It was launched by Binance in September 2020 to host smart contracts and decentralized applications. Unlike Ethereum\u2019s Proof-of-Work consensus model, BNB uses the Proof-of-Staked-Authority model which has allowed for low transaction fees and higher throughput. Compared to Ethereum which would usually cost hundreds to make a few transactions, BNB only charges less than a few dollars. BNB supports the BEP-20 token format, which is essentially the same format as ERC-20 but on a different chain, and transaction fees are paid in Binance\u2019s native exchange token, BNB.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
     ],
-    "volume_24h": 43459305128.308365,
-    "updated_at": "2022-10-04T05:19:23.618Z",
+    "volume_24h": 48166895343.87773,
+    "updated_at": "2022-10-03T23:56:53.287Z",
     "rank": 3
   },
   {
     "id": "polygon-ecosystem",
     "name": "Polygon Ecosystem",
-    "market_cap": 234795907053.1452,
-    "market_cap_change_24h": 0.671150839517187,
+    "market_cap": 234042193802.11282,
+    "market_cap_change_24h": 0.4363218633301743,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
     ],
-    "volume_24h": 43034543058.80374,
-    "updated_at": "2022-10-04T05:22:55.363Z",
+    "volume_24h": 47074538098.83367,
+    "updated_at": "2022-10-03T23:56:12.436Z",
     "rank": 4
   },
   {
     "id": "avalanche-ecosystem",
     "name": "Avalanche Ecosystem",
-    "market_cap": 219262373532.50784,
-    "market_cap_change_24h": 0.445171580771382,
+    "market_cap": 218613318853.53714,
+    "market_cap_change_24h": 0.35151248718403644,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
     ],
-    "volume_24h": 41878022277.83564,
-    "updated_at": "2022-10-04T05:22:25.619Z",
+    "volume_24h": 45852851654.25056,
+    "updated_at": "2022-10-03T23:55:29.199Z",
     "rank": 5
   },
   {
     "id": "moonriver-ecosystem",
     "name": "Moonriver Ecosystem",
-    "market_cap": 208392358993.93222,
-    "market_cap_change_24h": 0.24143626475094435,
+    "market_cap": 207771827775.25302,
+    "market_cap_change_24h": 0.3709982087478504,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850"
     ],
-    "volume_24h": 41086120391.08813,
-    "updated_at": "2022-10-04T05:23:45.551Z",
+    "volume_24h": 45069443429.12629,
+    "updated_at": "2022-10-03T23:56:32.273Z",
     "rank": 6
   },
   {
     "id": "fantom-ecosystem",
     "name": "Fantom Ecosystem",
-    "market_cap": 166744919184.76,
-    "market_cap_change_24h": 0.029950627859342563,
+    "market_cap": 166182642088.40118,
+    "market_cap_change_24h": -0.2638247335014391,
     "content": "FANTOM is a new DAG-based smart contract platform that intends to solve the scalability issues of existing public distributed ledger technologies.\r\nThe platform intends to distinguish itself from the traditional block ledger-based storage infrastructure by attempting to employ an improved version of existing DAG-based protocols. Fantom adopts a new protocol known as the \u201cLachesis Protocol\u201d to maintain consensus. This protocol is intended to be integrated into the Fantom Opera Chain. The aim is to allow applications built on Fantom to enjoy instant transactions and near zero transaction costs for all users.\r\n",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
     ],
-    "volume_24h": 41879828198.18231,
-    "updated_at": "2022-10-04T05:23:07.296Z",
+    "volume_24h": 45796548481.73925,
+    "updated_at": "2022-10-03T23:56:17.815Z",
     "rank": 7
   },
   {
     "id": "xdai-ecosystem",
     "name": "Gnosis Chain Ecosystem",
-    "market_cap": 159160032231.2715,
-    "market_cap_change_24h": 0.09853301015154499,
+    "market_cap": 158642450236.7513,
+    "market_cap_change_24h": -0.061727953727712184,
     "content": "Formerly the xDai Chain, The Gnosis chain is a Layer 2 scaling solution for Ethereum but uses a different consensus algorithm - Proof of Stake (PoS) and Proof of Stake DAO (POSDAO). It is designed to be more efficient than Ethereum, with higher transaction throughput (70 transactions/second) and has a much lower transaction fee.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
     ],
-    "volume_24h": 40259020976.70017,
-    "updated_at": "2022-10-04T05:19:13.281Z",
+    "volume_24h": 44849184368.34433,
+    "updated_at": "2022-10-03T23:56:49.293Z",
     "rank": 8
   },
   {
     "id": "stablecoins",
     "name": "Stablecoins",
-    "market_cap": 149540040122.10263,
-    "market_cap_change_24h": -0.37885903250907216,
+    "market_cap": 149132094914.93707,
+    "market_cap_change_24h": -0.24818550973120923,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
     ],
-    "volume_24h": 39310233242.06038,
-    "updated_at": "2022-10-04T05:18:53.985Z",
+    "volume_24h": 43600127792.2601,
+    "updated_at": "2022-10-03T23:56:44.312Z",
     "rank": 9
   },
   {
     "id": "cronos-ecosystem",
     "name": "Cronos Ecosystem",
-    "market_cap": 147731295482.2964,
-    "market_cap_change_24h": -0.1966816818227783,
+    "market_cap": 147317340570.20273,
+    "market_cap_change_24h": -0.1889140396930542,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
     ],
-    "volume_24h": 39833506944.33772,
-    "updated_at": "2022-10-04T05:19:45.897Z",
+    "volume_24h": 44153447360.47094,
+    "updated_at": "2022-10-03T23:57:00.455Z",
     "rank": 10
   },
   {
     "id": "velas-ecosystem",
     "name": "Velas Ecosystem",
-    "market_cap": 147472833198.52408,
-    "market_cap_change_24h": -0.1978118342731075,
+    "market_cap": 147080691884.036,
+    "market_cap_change_24h": -0.17397468553477463,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
     ],
-    "volume_24h": 39902671620.46119,
-    "updated_at": "2022-10-04T05:19:49.680Z",
+    "volume_24h": 44225619491.75539,
+    "updated_at": "2022-10-03T23:57:02.108Z",
     "rank": 11
   },
   {
     "id": "harmony-ecosystem",
     "name": "Harmony Ecosystem",
-    "market_cap": 145366170724.2198,
-    "market_cap_change_24h": -0.03170081352997561,
+    "market_cap": 144867536609.7041,
+    "market_cap_change_24h": -0.16966905620169015,
     "content": "Harmony is a blockchain platform that is designed to act as a bridge between scalability and interoperability. Its focus is on processing speed and validation of blocks. It can be used to create decentralized applications (DApps), and is currently focused on random state sharding. This will then allow the creation of blocks within seconds.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9576/small/BUSD.png?1568947766"
     ],
-    "volume_24h": 39893110517.509384,
-    "updated_at": "2022-10-04T05:21:13.047Z",
+    "volume_24h": 44119395337.40347,
+    "updated_at": "2022-10-03T23:55:11.950Z",
     "rank": 12
   },
   {
     "id": "arbitrum-ecosystem",
     "name": "Arbitrum Ecosystem",
-    "market_cap": 143252970853.37042,
-    "market_cap_change_24h": 0.29242603269955203,
+    "market_cap": 142741036197.66623,
+    "market_cap_change_24h": 0.02238884696899608,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
     ],
-    "volume_24h": 34651706562.770935,
-    "updated_at": "2022-10-04T05:23:23.100Z",
+    "volume_24h": 38336899863.06036,
+    "updated_at": "2022-10-03T23:56:24.898Z",
     "rank": 13
   },
   {
     "id": "near-protocol-ecosystem",
     "name": "Near Protocol Ecosystem",
-    "market_cap": 135191934885.9494,
-    "market_cap_change_24h": 0.041487760088068384,
+    "market_cap": 134656626286.82057,
+    "market_cap_change_24h": -0.17289367171564013,
     "content": "NEAR is a sharded, developer-friendly, proof-of-stake public blockchain. It is designed to compete with Ethereum by providing a similar experience with decentralized applications and smart contracts, but with lower fees and higher throughput. The blockchain\u2019s native token, NEAR, is used to pay for transactions and storing data on the blockchain. Smart contract developers receive a portion of the transaction fees generated by their contracts, while the remainder is burnt. This creates deflationary pressure on NEAR, making it more valuable as more transactions are performed.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
     ],
-    "volume_24h": 33885897927.250134,
-    "updated_at": "2022-10-04T05:23:09.890Z",
+    "volume_24h": 37926075791.7355,
+    "updated_at": "2022-10-03T23:56:18.922Z",
     "rank": 14
   },
   {
     "id": "metis-ecosystem",
     "name": "Metis Ecosystem",
-    "market_cap": 126679609979.95497,
-    "market_cap_change_24h": -0.16791896811722423,
+    "market_cap": 126344673941.77542,
+    "market_cap_change_24h": -0.1582151281997417,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/325/small/Tether-logo.png?1598003707",
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734"
     ],
-    "volume_24h": 33608031378.077835,
-    "updated_at": "2022-10-04T05:19:47.906Z",
+    "volume_24h": 37744315478.12344,
+    "updated_at": "2022-10-03T23:57:01.600Z",
     "rank": 15
   },
   {
     "id": "exchange-based-tokens",
     "name": "Exchange-based Tokens",
-    "market_cap": 74504943754.16927,
-    "market_cap_change_24h": 1.2866687175873752,
+    "market_cap": 74365439503.31326,
+    "market_cap_change_24h": 1.1354703828736221,
     "content": "These tokens are normally associated with both centralized and decentralized exchanges and have different purposes. For centralized exchanges, these tokens usually serve to lower trading fees for users. Traders get to enjoy discounted rates when they hold a certain amount of these tokens and even unlock special benefits such as free withdrawals and airdrops. On the other hand, these tokens also function as a governance token for decentralized exchanges. Users can vote on proposals to shape the direction of the protocol based on the number of tokens held. They can also be staked to accrue trading fees.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
       "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604",
-      "https://assets.coingecko.com/coins/images/8418/small/leo-token.png?1558326215"
+      "https://assets.coingecko.com/coins/images/4463/small/WeChat_Image_20220118095654.png?1642471050"
     ],
-    "volume_24h": 1431174896.3874328,
-    "updated_at": "2022-10-04T05:18:48.699Z",
+    "volume_24h": 1446396730.3993795,
+    "updated_at": "2022-10-03T23:56:42.866Z",
     "rank": 16
   },
   {
     "id": "centralized-exchange-token-cex",
     "name": "Centralized Exchange (CEX)",
-    "market_cap": 64284864188.89051,
-    "market_cap_change_24h": 0.8550251256618414,
+    "market_cap": 64124104335.24047,
+    "market_cap_change_24h": 0.9281768600042418,
     "content": "These utility tokens are issued by a centralized exchange and can be used for a variety of purposes. Although holders are not able to exercise governance, they still carry many other benefits. Based on the amount of tokens held, users on the exchange get to enjoy discounted trading fees. Additionally, stakers can gain access to exclusive token sales on the exchange, where their allocation is also determined based on the number of exchange tokens staked.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/825/small/bnb-icon2_2x.png?1644979850",
-      "https://assets.coingecko.com/coins/images/8418/small/leo-token.png?1558326215",
-      "https://assets.coingecko.com/coins/images/4463/small/WeChat_Image_20220118095654.png?1642471050"
+      "https://assets.coingecko.com/coins/images/4463/small/WeChat_Image_20220118095654.png?1642471050",
+      "https://assets.coingecko.com/coins/images/8418/small/leo-token.png?1558326215"
     ],
-    "volume_24h": 708696634.2964909,
-    "updated_at": "2022-10-04T05:22:57.321Z",
+    "volume_24h": 781342582.0758948,
+    "updated_at": "2022-10-03T23:56:13.528Z",
     "rank": 17
   },
   {
     "id": "arbitrum-nova-ecosystem",
     "name": "Arbitrum Nova Ecosystem",
-    "market_cap": 53605833482.9401,
-    "market_cap_change_24h": -0.3306393686278629,
+    "market_cap": 53467094155.355934,
+    "market_cap_change_24h": -0.3005032007703549,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389",
       "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
       "https://assets.coingecko.com/coins/images/11222/small/Moons.png?1589620193"
     ],
-    "volume_24h": 4092557021.946511,
-    "updated_at": "2022-10-04T05:19:46.891Z",
+    "volume_24h": 5121631115.83736,
+    "updated_at": "2022-10-03T23:57:01.000Z",
     "rank": 18
   },
   {
     "id": "decentralized-finance-defi",
     "name": "Decentralized Finance (DeFi)",
-    "market_cap": 45204098267.59314,
-    "market_cap_change_24h": 2.547642870782661,
+    "market_cap": 44984692936.66954,
+    "market_cap_change_24h": 0.3600873826570746,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/9956/small/4943.png?1636636734",
       "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546",
       "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604"
     ],
-    "volume_24h": 3207295232.1142893,
-    "updated_at": "2022-10-04T05:24:02.210Z",
+    "volume_24h": 3300714051.840489,
+    "updated_at": "2022-10-03T23:56:36.480Z",
     "rank": 19
   },
   {
     "id": "solana-ecosystem",
     "name": "Solana Ecosystem",
-    "market_cap": 19065260600.484264,
-    "market_cap_change_24h": 3.1859642095064604,
+    "market_cap": 18938704642.100086,
+    "market_cap_change_24h": 0.9779783750972795,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/4128/small/solana.png?1640133422",
       "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
       "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566"
     ],
-    "volume_24h": 1248155153.8699815,
-    "updated_at": "2022-10-04T05:21:42.292Z",
+    "volume_24h": 1243760901.6377602,
+    "updated_at": "2022-10-03T23:55:21.593Z",
     "rank": 20
   },
   {
     "id": "cardano-ecosystem",
     "name": "Cardano Ecosystem",
-    "market_cap": 18708739101.25189,
-    "market_cap_change_24h": 2.8484008755252455,
+    "market_cap": 18587374801.107983,
+    "market_cap_change_24h": -0.3171666234449969,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/975/small/cardano.png?1547034860",
       "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
       "https://assets.coingecko.com/coins/images/2484/small/Ergo.png?1574682618"
     ],
-    "volume_24h": 861807727.798799,
-    "updated_at": "2022-10-04T05:19:06.288Z",
+    "volume_24h": 846582187.0271916,
+    "updated_at": "2022-10-03T23:56:47.969Z",
     "rank": 21
   },
   {
     "id": "meme-token",
     "name": "Meme",
-    "market_cap": 15264148586.087059,
-    "market_cap_change_24h": 1.7213675158074462,
+    "market_cap": 15263393946.162748,
+    "market_cap_change_24h": -0.14996393447923312,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/5/small/dogecoin.png?1547792256",
       "https://assets.coingecko.com/coins/images/11939/small/shiba.png?1622619446",
       "https://assets.coingecko.com/coins/images/16125/small/Baby_Doge.png?1623044048"
     ],
-    "volume_24h": 349623503.9767564,
-    "updated_at": "2022-10-04T05:19:42.437Z",
+    "volume_24h": 380738043.90725493,
+    "updated_at": "2022-10-03T23:56:59.222Z",
     "rank": 22
   },
   {
     "id": "non-fungible-tokens-nft",
     "name": "NFT",
-    "market_cap": 15108133130.172808,
-    "market_cap_change_24h": 2.7608145084245828,
+    "market_cap": 15101129886.90531,
+    "market_cap_change_24h": -0.33965073271032753,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13446/small/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1631696776",
       "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455",
       "https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745"
     ],
-    "volume_24h": 1262305580.358534,
-    "updated_at": "2022-10-04T05:19:54.013Z",
+    "volume_24h": 1381298622.1023242,
+    "updated_at": "2022-10-03T23:57:02.765Z",
     "rank": 23
   },
   {
     "id": "dot-ecosystem",
     "name": "Polkadot Ecosystem",
-    "market_cap": 13756238666.712994,
-    "market_cap_change_24h": 3.742947278457954,
+    "market_cap": 13649396675.222588,
+    "market_cap_change_24h": 1.1152517866714091,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12171/small/polkadot.png?1639712644",
       "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
       "https://assets.coingecko.com/coins/images/9568/small/m4zRhP5e_400x400.jpg?1576190080"
     ],
-    "volume_24h": 1017897417.0742354,
-    "updated_at": "2022-10-04T05:23:55.908Z",
+    "volume_24h": 989582622.311751,
+    "updated_at": "2022-10-03T23:56:35.504Z",
     "rank": 24
   },
   {
     "id": "governance",
     "name": "Governance",
-    "market_cap": 13510468327.621975,
-    "market_cap_change_24h": 4.091487188760628,
+    "market_cap": 13519067550.427776,
+    "market_cap_change_24h": 2.4097412951562114,
     "content": "Governance tokens are used to determine the direction or decisions taken by a protocol. A protocol\u2019s team or even its community members can create proposals to introduce new features or even change the terms of governance itself. Once a proposal has been discussed and further fleshed out, token holders can vote on the decision to be made. The weight of your votes is determined based on the number of governance tokens held. ",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604",
       "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110",
       "https://assets.coingecko.com/coins/images/16646/small/Logo_final-22.png?1628239446"
     ],
-    "volume_24h": 741208436.8311136,
-    "updated_at": "2022-10-04T05:18:42.591Z",
+    "volume_24h": 758609035.3476799,
+    "updated_at": "2022-10-03T23:56:41.271Z",
     "rank": 25
   },
   {
     "id": "cosmos-ecosystem",
     "name": "Cosmos Ecosystem",
-    "market_cap": 13064957373.324385,
-    "market_cap_change_24h": 2.19420059381982,
+    "market_cap": 12989298570.197168,
+    "market_cap_change_24h": -0.44378281012310733,
     "content": "The Cosmos network consists of many independent, parallel blockchains. The goal of Cosmos is to create an \u2018Internet of Blockchains\u2019 where different blockchains can interoperate with each other through a network. You can plug any Cosmos network and pass tokens back and forth between these different blockchains, without the need for an intermediary. ATOM is the native token of the Cosmos network and is used to pay for transaction fees and can be staked to further secure the network and participate in governance decisions. By staking your ATOM tokens, you can also earn rewards in the form of newly minted ATOM tokens as well as a portion of the transaction fees collected.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/1481/small/cosmos_hub.png?1555657960",
       "https://assets.coingecko.com/coins/images/7310/small/oCw2s3GI_400x400.jpeg?1645172042",
       "https://assets.coingecko.com/coins/images/8284/small/01_LunaClassic_color.png?1653547790"
     ],
-    "volume_24h": 1326664182.851828,
-    "updated_at": "2022-10-04T05:21:21.645Z",
+    "volume_24h": 1394066576.841612,
+    "updated_at": "2022-10-03T23:55:14.507Z",
     "rank": 26
   },
   {
     "id": "decentralized-exchange",
     "name": "Decentralized Exchange (DEX)",
-    "market_cap": 10950541735.303482,
-    "market_cap_change_24h": 4.473144356532412,
+    "market_cap": 10950819897.881857,
+    "market_cap_change_24h": 2.2894886475419214,
     "content": "Decentralized exchanges, or DEXs, allow users to trade with one another in a permissionless manner and without any intermediaries. As long as someone provides liquidity, anyone can purchase and sell that token on the exchange. Besides its use case in dictating governance decisions, DEX tokens usually seek to capture value for the holders by diverting some of the transaction fees to stakers. ",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604",
       "https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1629359065",
       "https://assets.coingecko.com/coins/images/3406/small/SNX.png?1598631139"
     ],
-    "volume_24h": 682055304.6326737,
-    "updated_at": "2022-10-04T05:22:44.221Z",
+    "volume_24h": 681115041.3653184,
+    "updated_at": "2022-10-03T23:55:57.067Z",
     "rank": 27
   },
   {
     "id": "yield-farming",
     "name": "Yield Farming",
-    "market_cap": 10223540738.048016,
-    "market_cap_change_24h": 4.125750543846617,
+    "market_cap": 10233761752.776468,
+    "market_cap_change_24h": 2.19473166998271,
     "content": "Yield farming is the act of staking or lending your assets in yield-farming protocols to earn a reward, usually in the form of the protocol\u2019s governance token. For decentralized exchanges, yield farmers usually provide a pair of assets as liquidity for the exchange. They will then receive LP tokens, which represent their share of the liquidity pool and these can then be staked to yield-farm the exchange\u2019s native token. Some protocols also offer single-sided staking, where only one particular asset is required to begin yield farming.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604",
       "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110",
       "https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1629359065"
     ],
-    "volume_24h": 669364612.7865925,
-    "updated_at": "2022-10-04T05:23:41.839Z",
+    "volume_24h": 668623799.8878022,
+    "updated_at": "2022-10-03T23:56:31.304Z",
     "rank": 28
   },
   {
     "id": "automated-market-maker-amm",
     "name": "Automated Market Maker (AMM)",
-    "market_cap": 7774735862.472783,
-    "market_cap_change_24h": 4.568377873778989,
+    "market_cap": 7782449695.174877,
+    "market_cap_change_24h": 2.5717921056450646,
     "content": "Automated market makers (AMMs) are a mechanism used by most decentralized exchanges to facilitate permissionless trading. AMMs make use of liquidity pools containing 2 or more assets, and prices are derived based on the proportion of each asset in that pool as well as the mathematical function used. Orders through an AMM are executed automatically via a smart contract that will calculate the trade prices algorithmically, including any slippage from the trade execution.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12504/small/uniswap-uni.png?1600306604",
       "https://assets.coingecko.com/coins/images/12632/small/pancakeswap-cake-logo_%281%29.png?1629359065",
       "https://assets.coingecko.com/coins/images/16724/small/osmo.png?1632763885"
     ],
-    "volume_24h": 366012395.6245323,
-    "updated_at": "2022-10-04T05:23:32.180Z",
+    "volume_24h": 374390583.91575307,
+    "updated_at": "2022-10-03T23:56:28.428Z",
     "rank": 29
   },
   {
     "id": "liquid-staking-tokens",
     "name": "Liquid Staking Tokens",
-    "market_cap": 6560822525.18793,
-    "market_cap_change_24h": 3.219726594299812,
+    "market_cap": 6536412782.734379,
+    "market_cap_change_24h": 0.4862670318835617,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546",
       "https://assets.coingecko.com/coins/images/17752/small/mSOL.png?1644541955",
       "https://assets.coingecko.com/coins/images/20764/small/reth.png?1637652366"
     ],
-    "volume_24h": 13199859.76535116,
-    "updated_at": "2022-10-04T05:19:26.256Z",
+    "volume_24h": 15205045.513497783,
+    "updated_at": "2022-10-03T23:56:53.950Z",
     "rank": 30
   },
   {
     "id": "eth-2-0-staking",
     "name": "Eth 2.0 Staking",
-    "market_cap": 6147295363.257361,
-    "market_cap_change_24h": 3.4667401728644056,
+    "market_cap": 6123347303.950926,
+    "market_cap_change_24h": 0.6969102855917242,
     "content": "In Ethereum 2.0, the consensus algorithm is transitioned from Proof-of-Work to Proof-of-Stake, allowing users to stake their Ether and validate transactions in exchange for staking rewards. When you participate in ETH 2.0 staking solutions, you will usually receive a token which represents your staked assets but are also liquid and can be used in other protocols. Here, you can find different tokens which represent staked Ether from various protocols.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13442/small/steth_logo.png?1608607546",
       "https://assets.coingecko.com/coins/images/4324/small/U85xTl2.png?1608111978",
       "https://assets.coingecko.com/coins/images/13403/small/aETHc.png?1625756490"
     ],
-    "volume_24h": 35565081.75585243,
-    "updated_at": "2022-10-04T05:22:19.319Z",
+    "volume_24h": 41299005.80950071,
+    "updated_at": "2022-10-03T23:55:27.841Z",
     "rank": 31
-  },
-  {
-    "id": "gaming",
-    "name": "Gaming",
-    "market_cap": 6125071137.338615,
-    "market_cap_change_24h": 2.985939292978634,
-    "content": "",
-    "top_3_coins": [
-      "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942",
-      "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082",
-      "https://assets.coingecko.com/coins/images/1102/small/enjin-coin-logo.png?1547035078"
-    ],
-    "volume_24h": 589271128.9780946,
-    "updated_at": "2022-10-04T05:19:56.973Z",
-    "rank": 32
   },
   {
     "id": "play-to-earn",
     "name": "Play To Earn",
-    "market_cap": 6124069233.269412,
-    "market_cap_change_24h": 2.620106433398101,
+    "market_cap": 6107432752.554864,
+    "market_cap_change_24h": 0.18569963859586391,
     "content": "Play-to-earn refers to the gaming concept whereby players are awarded in-game currency. These tokens can be earned by completing certain tasks, or achievements. These in-game tokens can also be transferred out of the game, and into wallets or exchanges, where they can be traded for various other currencies to be used in the real world.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745",
       "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942",
       "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082"
     ],
-    "volume_24h": 566459241.6845335,
-    "updated_at": "2022-10-04T05:23:12.633Z",
+    "volume_24h": 620422306.6448475,
+    "updated_at": "2022-10-03T23:56:19.904Z",
+    "rank": 32
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "market_cap": 6103856773.584232,
+    "market_cap_change_24h": 0.43632427199192614,
+    "content": "",
+    "top_3_coins": [
+      "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942",
+      "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082",
+      "https://assets.coingecko.com/coins/images/1102/small/enjin-coin-logo.png?1547035078"
+    ],
+    "volume_24h": 627556107.4147563,
+    "updated_at": "2022-10-03T23:57:03.334Z",
     "rank": 33
   },
   {
     "id": "metaverse",
     "name": "Metaverse",
-    "market_cap": 6058956025.030846,
-    "market_cap_change_24h": 2.966733468683517,
+    "market_cap": 6034746973.8298025,
+    "market_cap_change_24h": 0.5562681457395202,
     "content": "Metaverse refers to the part of the Internet where there is a shared virtual reality, a shared digital world where everything can be interconnected. Metaverse extends reality as we know it through a combination of Virtual Reality (VR), Augmented Reality (AR) and various forms of social media where participants can interact with one another in a separate world.\r\n\r\n\r\nThere is no one \u201creal\u201d metaverse as of 2021 - much like the internet itself. \r\n\r\n\r\nThat said, multiple companies are already in this space actively building - Microsoft (VR headset, software), HTC (VR headset) with the most recent one being Meta (formerly Facebook). Facebook CEO Mark Zuckerberg announced the rebrand in Q4 2021 to signal their commitment towards building for the Metaverse. The value of interoperability in the metaverse was being emphasized by Mark, when he spoke about the ability to move objects from one world to another.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/878/small/decentraland-mana.png?1550108745",
       "https://assets.coingecko.com/coins/images/12129/small/sandbox_logo.jpg?1597397942",
       "https://assets.coingecko.com/coins/images/13029/small/axie_infinity_logo.png?1604471082"
     ],
-    "volume_24h": 494179087.40026313,
-    "updated_at": "2022-10-04T05:21:09.186Z",
+    "volume_24h": 519563584.9388282,
+    "updated_at": "2022-10-03T23:55:09.436Z",
     "rank": 34
   },
   {
     "id": "privacy-coins",
     "name": "Privacy Coins",
-    "market_cap": 5429427654.394812,
-    "market_cap_change_24h": 5.996416239496307,
+    "market_cap": 5284073903.52222,
+    "market_cap_change_24h": 1.3214352344855798,
     "content": "Privacy coins are cryptocurrencies which allow users to conduct transactions privately and anonymously. This ensures the identity of the parties involved are kept private, and ensures the transactions are untraceable.This is done by hiding the origin and destination of transactions. In some cases, multiple transactions are mixed together in order to make onchain analysis tougher. ",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/69/small/monero_logo.png?1547033729",
       "https://assets.coingecko.com/coins/images/486/small/circle-zcash-color.png?1547034197",
       "https://assets.coingecko.com/coins/images/329/small/decred.png?1547034093"
     ],
-    "volume_24h": 173876845.5800688,
-    "updated_at": "2022-10-04T05:18:50.586Z",
+    "volume_24h": 170777905.63132125,
+    "updated_at": "2022-10-03T23:56:43.613Z",
     "rank": 35
   },
   {
     "id": "wrapped-tokens",
     "name": "Wrapped-Tokens",
-    "market_cap": 4923310800.51362,
-    "market_cap_change_24h": 2.9524291645858893,
+    "market_cap": 4919925069.488053,
+    "market_cap_change_24h": 1.7344576563790226,
     "content": "Wrapped tokens offer a way to circumvent the lack of interoperability between different blockchains. The wrapping of a token happens when the original asset is put into a \u201cwrapper\u201d and deployed on a different blockchain. With it being wrapped, the cryptocurrency can now be used on a blockchain where it previously wasn\u2019t available. One example of a wrapped token would be Wrapped Bitcoin (WBTC). It is an ERC-20 version of Bitcoin, which allows it to be used on protocols based on Ethereum. Watch this video to learn more about Wrapped tokens.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744",
       "https://assets.coingecko.com/coins/images/11370/small/Bitcoin.jpg?1628072791",
       "https://assets.coingecko.com/coins/images/11890/small/wrapped-nexus-mutual.jpg?1595811559"
     ],
-    "volume_24h": 798510412.4331015,
-    "updated_at": "2022-10-04T05:22:16.684Z",
+    "volume_24h": 468340617.672826,
+    "updated_at": "2022-10-03T23:55:26.570Z",
     "rank": 36
   },
   {
     "id": "asset-backed-tokens",
     "name": "Asset-backed Tokens",
-    "market_cap": 4806951932.236433,
-    "market_cap_change_24h": 0.9486803820341777,
+    "market_cap": 4803944343.868506,
+    "market_cap_change_24h": -1.450748778938162,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/9442/small/Compound_USDC.png?1567581577",
       "https://assets.coingecko.com/coins/images/9281/small/cDAI.png?1576467585",
       "https://assets.coingecko.com/coins/images/10643/small/ceth2.JPG?1581389598"
     ],
-    "volume_24h": 64242338.69651748,
-    "updated_at": "2022-10-04T05:18:56.047Z",
+    "volume_24h": 73579748.53679489,
+    "updated_at": "2022-10-03T23:56:45.086Z",
     "rank": 37
   },
   {
     "id": "finance-banking",
     "name": "Finance / Banking",
-    "market_cap": 4723674432.899816,
-    "market_cap_change_24h": 2.5068557699454,
+    "market_cap": 4699478227.922576,
+    "market_cap_change_24h": -0.04314940844309604,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/9442/small/Compound_USDC.png?1567581577",
       "https://assets.coingecko.com/coins/images/10643/small/ceth2.JPG?1581389598",
       "https://assets.coingecko.com/coins/images/3695/small/nexo.png?1548086057"
     ],
-    "volume_24h": 173122742.2623046,
-    "updated_at": "2022-10-04T05:22:34.204Z",
+    "volume_24h": 165700320.39625463,
+    "updated_at": "2022-10-03T23:55:31.768Z",
     "rank": 38
   },
   {
     "id": "oracle",
     "name": "Oracle",
-    "market_cap": 4515600077.101323,
-    "market_cap_change_24h": 4.892493922017101,
+    "market_cap": 4399785781.489494,
+    "market_cap_change_24h": -0.6848440051056403,
     "content": "Oracles are used by protocols in their smart contracts in order to obtain external data. This allows the closed-off blockchain environment to communicate with data points on the outside world. For example, a protocol offering synthetic Nasdaq-listed stock on the blockchain will need to pull external data from the stock market. With an oracle, the protocol will be able to do so. ",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/877/small/chainlink-new-logo.png?1547034700",
       "https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916",
       "https://assets.coingecko.com/coins/images/13256/small/api3.jpg?1606751424"
     ],
-    "volume_24h": 509909194.96719193,
-    "updated_at": "2022-10-04T05:18:37.620Z",
+    "volume_24h": 455988078.4063665,
+    "updated_at": "2022-10-03T23:56:39.676Z",
     "rank": 39
   },
   {
     "id": "lending-borrowing",
     "name": "Lending/Borrowing",
-    "market_cap": 3946810390.544988,
-    "market_cap_change_24h": 4.35015888169924,
+    "market_cap": 3918007602.5699387,
+    "market_cap_change_24h": 2.1579891907610347,
     "content": "Lending/borrowing protocols allow users to offer crypto loans by staking their assets in them without the need for a bank account. In return for lending their assets, users are given rewards, usually in the form of the protocol\u2019s native token. These products can be split between centralized and decentralized services. Centralized protocols require customers to undergo a Know-Your-Customer (KYC) process, while decentralized ones merely require users to have a compatible web3 wallet.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12645/small/AAVE.png?1601374110",
       "https://assets.coingecko.com/coins/images/1364/small/Mark_Maker.png?1585191826",
       "https://assets.coingecko.com/coins/images/3263/small/CEL_logo.png?1609598753"
     ],
-    "volume_24h": 225882959.44651082,
-    "updated_at": "2022-10-04T05:22:10.122Z",
+    "volume_24h": 236289619.11248034,
+    "updated_at": "2022-10-03T23:55:24.136Z",
     "rank": 40
   },
   {
     "id": "internet-of-things-iot",
     "name": "Internet of Things (IOT)",
-    "market_cap": 3899463352.315884,
-    "market_cap_change_24h": 2.8262988161388334,
+    "market_cap": 3894669443.924549,
+    "market_cap_change_24h": -1.0186626573055901,
     "content": "The Internet of Things (IoT) ecosystem consists of interconnected computing devices, with the ability to transfer data over a network without the need for any human interaction. Cryptocurrencies in the IoT ecosystem are designed to facilitate the exchange of data and payment information with other IoT devices.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/1167/small/VeChain-Logo-768x725.png?1547035194",
       "https://assets.coingecko.com/coins/images/692/small/IOTA_Swirl.png?1604238557",
       "https://assets.coingecko.com/coins/images/4284/small/Helium_HNT.png?1612620071"
     ],
-    "volume_24h": 155837749.7810323,
-    "updated_at": "2022-10-04T05:22:38.828Z",
+    "volume_24h": 162300565.10678655,
+    "updated_at": "2022-10-03T23:55:51.491Z",
     "rank": 41
   },
   {
     "id": "sports",
     "name": "Sports",
-    "market_cap": 3341294533.420997,
-    "market_cap_change_24h": 1.457838026059624,
+    "market_cap": 3363911329.837203,
+    "market_cap_change_24h": -3.4238611255373947,
     "content": "These projects have introduced a new way for sports teams to engage with their fans and has made it easier for ordinary sports fans to show their support to their favorite teams and players. \r\nWith Fan Tokens, fans have the power to influence their favourite sports teams in minor decisions and enter an exclusive club of like-minded supporters and VIP benefits. Sports NFTs have also allowed fans to access a smoother and more permanent form of collectible.\r\n",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13446/small/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1631696776",
       "https://assets.coingecko.com/coins/images/8834/small/Chiliz.png?1561970540",
       "https://assets.coingecko.com/coins/images/25057/small/fhD9Xs16_400x400.jpg?1649947000"
     ],
-    "volume_24h": 390706201.74986863,
-    "updated_at": "2022-10-04T05:19:03.794Z",
+    "volume_24h": 450908442.35437524,
+    "updated_at": "2022-10-03T23:56:47.256Z",
     "rank": 42
   },
   {
     "id": "storage",
     "name": "Storage",
-    "market_cap": 2952474801.064004,
-    "market_cap_change_24h": 2.513246832798614,
+    "market_cap": 2957415620.6906686,
+    "market_cap_change_24h": 0.710262560602297,
     "content": "Storage protocols allow users to store their data on the blockchain network in a decentralized manner. This negates the need for a centralized storage host such as Amazon, OneDrive, DropBox, and others. This removes the issue of a single point of failure. Decentralized servers make use of independent nodes which in turn use spare storage space on computers. Users are able to rent out their spare storage on  In exchange for storage space, users are able to use a storage protocol\u2019s token to pay for the service.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12817/small/filecoin.png?1602753933",
       "https://assets.coingecko.com/coins/images/4343/small/oRt6SiEN_400x400.jpg?1591059616",
       "https://assets.coingecko.com/coins/images/3348/small/Holologo_Profile.png?1547037966"
     ],
-    "volume_24h": 148528717.9164944,
-    "updated_at": "2022-10-04T05:23:52.466Z",
+    "volume_24h": 160866455.34645963,
+    "updated_at": "2022-10-03T23:56:34.558Z",
     "rank": 43
   },
   {
     "id": "terra-ecosystem",
     "name": "Terra Ecosystem",
-    "market_cap": 2558456486.1477876,
-    "market_cap_change_24h": -6.122814671530502,
+    "market_cap": 2547129200.988334,
+    "market_cap_change_24h": -7.123167395663808,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/8284/small/01_LunaClassic_color.png?1653547790",
       "https://assets.coingecko.com/coins/images/12681/small/UST.png?1653548090",
       "https://assets.coingecko.com/coins/images/16859/small/pylon_logo.png?1625466331"
     ],
-    "volume_24h": 850393614.654059,
-    "updated_at": "2022-10-04T05:22:49.763Z",
+    "volume_24h": 907658312.3305594,
+    "updated_at": "2022-10-03T23:56:08.467Z",
     "rank": 44
   },
   {
     "id": "algorand-ecosystem",
     "name": "Algorand Ecosystem",
-    "market_cap": 2472199368.118274,
-    "market_cap_change_24h": -1.1866851075850389,
+    "market_cap": 2495931631.552686,
+    "market_cap_change_24h": 0.32198099703965755,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/4380/small/download.png?1547039725",
       "https://assets.coingecko.com/coins/images/16548/small/opulous.PNG?1624418744",
       "https://assets.coingecko.com/coins/images/5290/small/buying_200x200.png?1628587856"
     ],
-    "volume_24h": 96074588.21247368,
-    "updated_at": "2022-10-04T05:19:43.817Z",
+    "volume_24h": 121643217.72026384,
+    "updated_at": "2022-10-03T23:56:59.843Z",
     "rank": 45
   },
   {
     "id": "seigniorage",
     "name": "Seigniorage",
-    "market_cap": 1988082303.6760406,
-    "market_cap_change_24h": 0.5629654018219433,
+    "market_cap": 1983506352.511307,
+    "market_cap_change_24h": 0.33762313245691383,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13422/small/frax_logo.png?1608476506",
-      "https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989",
-      "https://assets.coingecko.com/coins/images/12681/small/UST.png?1653548090"
+      "https://assets.coingecko.com/coins/images/12681/small/UST.png?1653548090",
+      "https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989"
     ],
-    "volume_24h": 38969152.42682308,
-    "updated_at": "2022-10-04T05:21:32.554Z",
+    "volume_24h": 36948715.22233535,
+    "updated_at": "2022-10-03T23:55:17.565Z",
     "rank": 46
   },
   {
     "id": "decentralized-derivatives",
     "name": "Derivatives",
-    "market_cap": 1833558677.3030078,
-    "market_cap_change_24h": 3.8158032841802774,
+    "market_cap": 1831814849.1351998,
+    "market_cap_change_24h": 1.7277861981558145,
     "content": "Derivatives are contracts whose values are derived from other underlying assets such as stocks, commodities, currencies, indexes, bonds, or interest rates. Each type of derivative, whether futures, options or swaps serves a different purpose, and each investor buys or sells them for various reasons. Some of the reasons investors trade derivatives are to hedge themself against the volatility of the underlying asset, speculate on the directional movement of the underlying asset, or leverage their holdings. Derivatives are extremely risky, and one must be equipped with strong financial knowledge and strategies when trading them.\r\n",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/3406/small/SNX.png?1598631139",
       "https://assets.coingecko.com/coins/images/18323/small/arbit.png?1631532468",
       "https://assets.coingecko.com/coins/images/17500/small/hjnIm9bV.jpg?1628009360"
     ],
-    "volume_24h": 164275809.9311829,
-    "updated_at": "2022-10-04T05:21:36.482Z",
+    "volume_24h": 164574995.9446595,
+    "updated_at": "2022-10-03T23:55:20.270Z",
     "rank": 47
   },
   {
     "id": "elrond-ecosystem",
     "name": "Elrond Ecosystem",
-    "market_cap": 1768950131.2668164,
-    "market_cap_change_24h": 11.07874362817274,
+    "market_cap": 1751504373.8026292,
+    "market_cap_change_24h": 10.815198243434564,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12335/small/elrond3_360.png?1626341589",
       "https://assets.coingecko.com/coins/images/20657/small/MEX-icon.png?1637540149",
       "https://assets.coingecko.com/coins/images/1824/small/300x300_logo.png?1570520533"
     ],
-    "volume_24h": 150387741.76309255,
-    "updated_at": "2022-10-04T05:19:32.366Z",
+    "volume_24h": 121574206.32192636,
+    "updated_at": "2022-10-03T23:56:55.953Z",
     "rank": 48
   },
   {
     "id": "tezos-ecosystem",
     "name": "Tezos Ecosystem",
-    "market_cap": 1305758074.8206158,
-    "market_cap_change_24h": 4.253717030132028,
+    "market_cap": 1307792741.8529398,
+    "market_cap_change_24h": 1.9963358404041534,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/976/small/Tezos-logo.png?1547034862",
       "https://assets.coingecko.com/coins/images/19171/small/YOU_Youves.png?1634611340",
-      "https://assets.coingecko.com/coins/images/18929/small/logo-png_%282%29.png?1633942527"
+      "https://assets.coingecko.com/coins/images/14535/small/stakerdao_logo.png?1616812877"
     ],
-    "volume_24h": 31841859.97715688,
-    "updated_at": "2022-10-04T05:19:29.958Z",
+    "volume_24h": 33656621.23476191,
+    "updated_at": "2022-10-03T23:56:55.323Z",
     "rank": 49
   },
   {
     "id": "masternodes",
     "name": "Masternodes",
-    "market_cap": 1262730819.233446,
-    "market_cap_change_24h": 2.842534312494313,
+    "market_cap": 1262935279.8134618,
+    "market_cap_change_24h": 1.1679189794559781,
     "content": "Masternodes are needed to verify new blocks in certain cryptocurrencies. However, unlike other nodes, they do not add new blocks to the network. In order to maintain a masternode, one would need to hold a certain amount of the protocol\u2019s cryptocurrency, and it\u2019s usually a significant amount. In return for operating a masternode, the operator is rewarded with the native currency.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/19/small/dash-logo.png?1548385930",
       "https://assets.coingecko.com/coins/images/5163/small/Flux_symbol_blue-white.png?1617192144",
       "https://assets.coingecko.com/coins/images/691/small/horizen.png?1555052241"
     ],
-    "volume_24h": 71561300.28889637,
-    "updated_at": "2022-10-04T05:18:45.189Z",
+    "volume_24h": 75402501.52526917,
+    "updated_at": "2022-10-03T23:56:42.065Z",
     "rank": 50
   },
   {
     "id": "olympus-pro",
     "name": "Olympus Pro",
-    "market_cap": 1059079548.4963797,
-    "market_cap_change_24h": 4.013266519420208,
+    "market_cap": 1059667152.2711453,
+    "market_cap_change_24h": 1.0047335584474175,
     "content": "Olympus Pro aims to help protocols acquire their own liquidity, and to also lock the liquidity within the protocol. Instead of staking liquidity provider (LP) tokens in exchange for governance tokens, users will now be able to use their LP tokens to purchase the governance tokens at a discount. The protocol will not sell these LP tokens, and this means the liquidity is locked. This is known as a process called bonding.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13423/small/frax_share.png?1608478989",
       "https://assets.coingecko.com/coins/images/18024/small/synapse_social_icon.png?1663921797",
       "https://assets.coingecko.com/coins/images/15861/small/abracadabra-3.png?1622544862"
     ],
-    "volume_24h": 73262045.92551145,
-    "updated_at": "2022-10-04T05:23:14.691Z",
+    "volume_24h": 73189428.90266646,
+    "updated_at": "2022-10-03T23:56:20.914Z",
     "rank": 51
   },
   {
     "id": "yield-aggregator",
     "name": "Yield Aggregator",
-    "market_cap": 1032494203.9321629,
-    "market_cap_change_24h": 3.561315695127326,
+    "market_cap": 1030049105.8958164,
+    "market_cap_change_24h": 1.3450155582988221,
     "content": "Yield aggregators are protocols that collate multiple yield farms in a single place in order to ease the process of farming. With many new farms popping up on the market, it can be tedious for one to hop from farm to farm. However, with yield aggregators, that isn\u2019t necessary as it\u2019s done automatically in order to maximize the yield generated for users.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/15585/small/convex.png?1621256328",
       "https://assets.coingecko.com/coins/images/11849/small/yfi-192x192.png?1598325330",
       "https://assets.coingecko.com/coins/images/13287/small/badger_dao_logo.jpg?1607054976"
     ],
-    "volume_24h": 89180242.08860858,
-    "updated_at": "2022-10-04T05:22:28.814Z",
+    "volume_24h": 81922222.36903915,
+    "updated_at": "2022-10-03T23:55:30.479Z",
     "rank": 52
   },
   {
     "id": "decentralized-perpetuals",
     "name": "Perpetuals",
-    "market_cap": 871052977.3359487,
-    "market_cap_change_24h": 5.6362572604976835,
+    "market_cap": 867743920.8885195,
+    "market_cap_change_24h": 4.059841934161013,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/18323/small/arbit.png?1631532468",
       "https://assets.coingecko.com/coins/images/17500/small/hjnIm9bV.jpg?1628009360",
       "https://assets.coingecko.com/coins/images/12882/small/Secondary_Symbol.png?1628233237"
     ],
-    "volume_24h": 73698048.87207864,
-    "updated_at": "2022-10-04T05:21:55.551Z",
+    "volume_24h": 78919724.09364513,
+    "updated_at": "2022-10-03T23:55:22.872Z",
     "rank": 53
   },
   {
     "id": "synthetic-assets",
     "name": "Synthetic Issuer",
-    "market_cap": 831796833.5186286,
-    "market_cap_change_24h": 2.6159703185389676,
+    "market_cap": 834808562.8641351,
+    "market_cap_change_24h": -0.17848560829542418,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/3406/small/SNX.png?1598631139",
       "https://assets.coingecko.com/coins/images/10951/small/UMA.png?1586307916",
       "https://assets.coingecko.com/coins/images/8713/small/STP.png?1560262664"
     ],
-    "volume_24h": 56009000.250513054,
-    "updated_at": "2022-10-04T05:22:46.536Z",
+    "volume_24h": 51889036.81106278,
+    "updated_at": "2022-10-03T23:55:58.950Z",
     "rank": 54
   },
   {
     "id": "analytics",
     "name": "Analytics",
-    "market_cap": 818732531.1727489,
-    "market_cap_change_24h": 3.563715013855193,
+    "market_cap": 816055644.9545213,
+    "market_cap_change_24h": 0.5305096231885066,
     "content": "These projects provide advanced insights and charting tools to track historical token prices, real-time trades and volume. Other more advanced features include impermanent loss calculation and data querying. Some of these projects may require you to hold a certain number of tokens to access the full version of their product suite.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13397/small/Graph_Token.png?1608145566",
       "https://assets.coingecko.com/coins/images/14168/small/covalent-cqt.png?1624545218",
       "https://assets.coingecko.com/coins/images/11973/small/DsNgK0O.png?1596590280"
     ],
-    "volume_24h": 44819706.40513641,
-    "updated_at": "2022-10-04T05:24:04.820Z",
+    "volume_24h": 46407659.57942377,
+    "updated_at": "2022-10-03T23:56:37.304Z",
     "rank": 55
   },
   {
     "id": "celo-ecosystem",
     "name": "Celo Ecosystem",
-    "market_cap": 790599317.0224795,
-    "market_cap_change_24h": 1.6333139026062464,
+    "market_cap": 792044745.5054095,
+    "market_cap_change_24h": 0.002193419811983772,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/11090/small/icon-celo-CELO-color-500.png?1592293590",
       "https://assets.coingecko.com/coins/images/4324/small/U85xTl2.png?1608111978",
       "https://assets.coingecko.com/coins/images/17117/small/logo.png?1626412904"
     ],
-    "volume_24h": 614385498.4563943,
-    "updated_at": "2022-10-04T05:23:17.924Z",
+    "volume_24h": 272131517.7595682,
+    "updated_at": "2022-10-03T23:56:23.831Z",
     "rank": 56
   },
   {
     "id": "yearn-yfi-partnerships-mergers",
     "name": "Yearn Ecosystem",
-    "market_cap": 623167272.4761952,
-    "market_cap_change_24h": 3.7233794893389045,
+    "market_cap": 623621700.0857168,
+    "market_cap_change_24h": 0.9708642373348224,
     "content": "The Yearn Ecosystem is a suite of Decentralized Finance (DeFi) products under the yearn umbrella. These projects range from lending and borrowing protocols such as CREAM, to automated market makers (AMM) like Sushi. \r\n\r\nAny changes that are to be implemented in the Yearn Ecosystem are decided by the DAO, consisting of holders of the Yearn Finance (YFI) token. \r\n",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/11849/small/yfi-192x192.png?1598325330",
       "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688",
       "https://assets.coingecko.com/coins/images/13725/small/xsushi.png?1612538526"
     ],
-    "volume_24h": 52824154.400261715,
-    "updated_at": "2022-10-04T05:21:29.508Z",
+    "volume_24h": 59382829.325500876,
+    "updated_at": "2022-10-03T23:55:16.103Z",
     "rank": 57
   },
   {
     "id": "oec-ecosystem",
     "name": "OEC Ecosystem",
-    "market_cap": 614857415.7192335,
-    "market_cap_change_24h": 2.7248298106857702,
+    "market_cap": 613995205.6297301,
+    "market_cap_change_24h": 0.14103631313331494,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13708/small/WeChat_Image_20220118095654.png?1642471094",
       "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png?1606986688",
       "https://assets.coingecko.com/coins/images/22087/small/1_Wyot-SDGZuxbjdkaOeT2-A.png?1640764238"
     ],
-    "volume_24h": 40036645.820401035,
-    "updated_at": "2022-10-04T05:19:18.252Z",
+    "volume_24h": 45923513.0974318,
+    "updated_at": "2022-10-03T23:56:51.018Z",
     "rank": 58
   },
   {
     "id": "daomaker-ecosystem",
     "name": "DaoMaker Ecosystem",
-    "market_cap": 579708506.6994832,
-    "market_cap_change_24h": 3.4906030821598084,
+    "market_cap": 581183274.0705158,
+    "market_cap_change_24h": 3.4876034410695236,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13915/small/4.png?1612838831",
       "https://assets.coingecko.com/coins/images/14375/small/alice_logo.jpg?1615782968",
       "https://assets.coingecko.com/coins/images/15857/small/xcad.PNG?1622164789"
     ],
-    "volume_24h": 69285733.00883354,
-    "updated_at": "2022-10-04T05:23:26.363Z",
+    "volume_24h": 66599017.32930162,
+    "updated_at": "2022-10-03T23:56:25.861Z",
     "rank": 59
   },
   {
     "id": "zilliqa-ecosystem",
     "name": "Zilliqa Ecosystem",
-    "market_cap": 577214938.4897947,
-    "market_cap_change_24h": 1.9849136613925338,
+    "market_cap": 579993074.4045925,
+    "market_cap_change_24h": 1.2457877832701698,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/2687/small/Zilliqa-logo.png?1547036894",
       "https://assets.coingecko.com/coins/images/12832/small/StraitsX_Singapore_Dollar_%28XSGD%29_Token_Logo.png?1633936813",
       "https://assets.coingecko.com/coins/images/15857/small/xcad.PNG?1622164789"
     ],
-    "volume_24h": 31482101.862703845,
-    "updated_at": "2022-10-04T05:23:02.125Z",
+    "volume_24h": 33183780.96616937,
+    "updated_at": "2022-10-03T23:56:15.709Z",
     "rank": 60
   },
   {
     "id": "move-to-earn",
     "name": "Move To Earn",
-    "market_cap": 528053067.2678099,
-    "market_cap_change_24h": 3.039517414700467,
+    "market_cap": 527164411.15621525,
+    "market_cap_change_24h": -1.865024310812833,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/23597/small/gmt.png?1644658792",
       "https://assets.coingecko.com/coins/images/25057/small/fhD9Xs16_400x400.jpg?1649947000",
       "https://assets.coingecko.com/coins/images/25015/small/801485424e1f49bc8d0facff9287eb9b_photo.png?1649827972"
     ],
-    "volume_24h": 78254101.89539504,
-    "updated_at": "2022-10-04T05:19:28.069Z",
+    "volume_24h": 86484930.15515207,
+    "updated_at": "2022-10-03T23:56:54.636Z",
     "rank": 61
   },
   {
     "id": "rebase-tokens",
     "name": "Rebase Tokens",
-    "market_cap": 524411373.83791816,
-    "market_cap_change_24h": -0.18046429182771337,
+    "market_cap": 522561361.6923627,
+    "market_cap_change_24h": -1.5496914611659471,
     "content": "Rebase tokens contain a function in their smart contracts that increases or decreases their supply. For example, if the price of the token is above a certain limit, the smart contract will increase the supply. This is done in order to drive the price down. Meanwhile, the opposite occurs when the token is below a certain price.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/14483/small/token_OHM_%281%29.png?1628311611",
       "https://assets.coingecko.com/coins/images/20040/small/LPK15ZOW_400x400.jpg?1636425070",
       "https://assets.coingecko.com/coins/images/4708/small/Ampleforth.png?1561684250"
     ],
-    "volume_24h": 1667085.3084207708,
-    "updated_at": "2022-10-04T05:23:37.655Z",
+    "volume_24h": 1742743.5707477967,
+    "updated_at": "2022-10-03T23:56:30.315Z",
     "rank": 62
   },
   {
     "id": "mev-protection",
     "name": "MEV Protection",
-    "market_cap": 501198967.60819733,
-    "market_cap_change_24h": 3.5342507054603804,
+    "market_cap": 497549625.7727958,
+    "market_cap_change_24h": -0.2917398049459042,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668",
       "https://assets.coingecko.com/coins/images/15928/small/Manifold.png?1622439811",
       "https://assets.coingecko.com/coins/images/15985/small/ATA.jpg?1622535745"
     ],
-    "volume_24h": 8340568.521143013,
-    "updated_at": "2022-10-04T05:22:58.746Z",
+    "volume_24h": 9277672.47286485,
+    "updated_at": "2022-10-03T23:56:14.581Z",
     "rank": 63
   },
   {
     "id": "xdc-ecosystem",
     "name": "XDC Ecosystem",
-    "market_cap": 483442062.22698534,
-    "market_cap_change_24h": -0.7222252044046181,
+    "market_cap": 481021920.7907063,
+    "market_cap_change_24h": -2.6996964461045625,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/2912/small/xdc-icon.png?1633700890",
       "https://assets.coingecko.com/coins/images/24859/small/gbex.png?1661665919",
       "https://assets.coingecko.com/coins/images/26266/small/LBT_symbol_200x200.png?1656984792"
     ],
-    "volume_24h": 7357680.723534089,
-    "updated_at": "2022-10-04T05:19:38.122Z",
+    "volume_24h": 7565581.100895329,
+    "updated_at": "2022-10-03T23:56:58.094Z",
     "rank": 64
   },
   {
     "id": "insurance",
     "name": "Insurance",
-    "market_cap": 433681481.64743596,
-    "market_cap_change_24h": 3.3608338941216234,
+    "market_cap": 432475015.3192179,
+    "market_cap_change_24h": 1.043010442296089,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/11810/small/nexus-mutual.jpg?1594547726",
       "https://assets.coingecko.com/coins/images/10354/small/logo-grey-circle.png?1614910406",
       "https://assets.coingecko.com/coins/images/11890/small/wrapped-nexus-mutual.jpg?1595811559"
     ],
-    "volume_24h": 4794313.777365628,
-    "updated_at": "2022-10-04T05:21:34.840Z",
+    "volume_24h": 5365561.371408354,
+    "updated_at": "2022-10-03T23:55:18.944Z",
     "rank": 65
   },
   {
     "id": "prediction-markets",
     "name": "Prediction Markets",
-    "market_cap": 402843505.0784262,
-    "market_cap_change_24h": 2.870237062766206,
+    "market_cap": 402002711.6685204,
+    "market_cap_change_24h": 0.5285424870882589,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/662/small/logo_square_simple_300px.png?1609402668",
       "https://assets.coingecko.com/coins/images/309/small/REP.png?1596339859",
       "https://assets.coingecko.com/coins/images/3833/small/kleros.png?1547975322"
     ],
-    "volume_24h": 11794069.151906403,
-    "updated_at": "2022-10-04T05:22:13.995Z",
+    "volume_24h": 11760453.111796185,
+    "updated_at": "2022-10-03T23:55:25.331Z",
     "rank": 66
   },
   {
     "id": "metagovernance",
     "name": "Metagovernance",
-    "market_cap": 382067395.439223,
-    "market_cap_change_24h": 5.164333014820457,
+    "market_cap": 381951139.27863634,
+    "market_cap_change_24h": 3.0697295019467923,
     "content": "Metagovernance refers to projects or protocols that primarily hold DAO tokens and actively participates in the governance process of those DAOs.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/15585/small/convex.png?1621256328",
       "https://assets.coingecko.com/coins/images/26745/small/redacted_v2.jpg?1660011507",
       "https://assets.coingecko.com/coins/images/12729/small/index.png?1634894321"
     ],
-    "volume_24h": 5279639.925705047,
-    "updated_at": "2022-10-04T05:19:39.706Z",
+    "volume_24h": 6459435.361371203,
+    "updated_at": "2022-10-03T23:56:58.644Z",
     "rank": 67
   },
   {
     "id": "fan-token",
     "name": "Fan Token",
-    "market_cap": 358473216.84266317,
-    "market_cap_change_24h": -1.7483947500820138,
+    "market_cap": 362123333.184335,
+    "market_cap_change_24h": -8.014109848473261,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/21132/small/santos.png?1638357080",
-      "https://assets.coingecko.com/coins/images/19263/small/B4Lla6V6_400x400.png?1634819219",
-      "https://assets.coingecko.com/coins/images/18081/small/bft.png?1630399794"
+      "https://assets.coingecko.com/coins/images/18081/small/bft.png?1630399794",
+      "https://assets.coingecko.com/coins/images/19263/small/B4Lla6V6_400x400.png?1634819219"
     ],
-    "volume_24h": 106618751.11467095,
-    "updated_at": "2022-10-04T05:22:48.133Z",
+    "volume_24h": 118191008.0728774,
+    "updated_at": "2022-10-03T23:56:06.422Z",
     "rank": 68
   },
   {
     "id": "decentralized-options",
     "name": "Options",
-    "market_cap": 344114757.6101319,
-    "market_cap_change_24h": 4.41647369379369,
+    "market_cap": 338626646.3724834,
+    "market_cap_change_24h": -0.34428086723730705,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/15823/small/RBN_64x64.png?1633529723",
       "https://assets.coingecko.com/coins/images/7805/small/Hxro_Profile_Transparent.png?1622443308",
       "https://assets.coingecko.com/coins/images/16652/small/DPX_%281%29.png?1624598630"
     ],
-    "volume_24h": 3390613.344060056,
-    "updated_at": "2022-10-04T05:23:34.952Z",
+    "volume_24h": 3331354.374353111,
+    "updated_at": "2022-10-03T23:56:29.425Z",
     "rank": 69
   },
   {
     "id": "guild-scholarship",
     "name": "Guild and Scholarship",
-    "market_cap": 292334891.2104588,
-    "market_cap_change_24h": 1.369641291381566,
+    "market_cap": 289968006.12828594,
+    "market_cap_change_24h": -0.8336592604474262,
     "content": "Guilds are decentralized autonomous organizations (DAOs) that invests in NFTs like game assets and rent them out to players. Players who receive rented game items are known as scholars and can be said to receive a scholarship. Guilds are an important component in the play to earn (p2e) ecosystem as these games require an upfront investment capital for players to participate in. Axie Infinity brought the popular model of play to earn and guilds which is not mainstay in the entire blockchain industry.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/19304/small/Db4XqML.png?1634972154",
       "https://assets.coingecko.com/coins/images/17358/small/le1nzlO6_400x400.jpg?1632465691",
       "https://assets.coingecko.com/coins/images/20933/small/guildfi-logo-200.png?1638003537"
     ],
-    "volume_24h": 15022888.426354976,
-    "updated_at": "2022-10-04T05:19:10.807Z",
+    "volume_24h": 16233358.211629543,
+    "updated_at": "2022-10-03T23:56:48.617Z",
     "rank": 70
   },
   {
     "id": "iotex-ecosystem",
     "name": "IoTeX Ecosystem",
-    "market_cap": 278831016.85648215,
-    "market_cap_change_24h": 6.893806983021881,
+    "market_cap": 267893057.17054468,
+    "market_cap_change_24h": -1.247410375123313,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/3334/small/iotex-logo.png?1547037941",
       "https://assets.coingecko.com/coins/images/19135/small/gft.png?1635004303",
       "https://assets.coingecko.com/coins/images/14101/small/Group-423.png?1614317472"
     ],
-    "volume_24h": 8400819.628411414,
-    "updated_at": "2022-10-04T05:24:06.730Z",
+    "volume_24h": 5507005.731048369,
+    "updated_at": "2022-10-03T23:56:38.125Z",
     "rank": 71
   },
   {
     "id": "music",
     "name": "Music",
-    "market_cap": 215533817.98708922,
-    "market_cap_change_24h": 3.156214028427521,
+    "market_cap": 215559157.9186098,
+    "market_cap_change_24h": 1.124551965963798,
     "content": "Cryptocurrency projects that are related to music is aimed at disrupting the record publishing industry. The goal is to simplify the process of tracking, collecting, and distributing song royalties to musicians in a decentralized manner. Fans are also able to directly support their favorite artists directly without going through an intermediary.",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12913/small/AudiusCoinLogo_2x.png?1603425727",
       "https://assets.coingecko.com/coins/images/983/small/Viberate.png?1547034873",
       "https://assets.coingecko.com/coins/images/16548/small/opulous.PNG?1624418744"
     ],
-    "volume_24h": 34646736.70790214,
-    "updated_at": "2022-10-04T05:22:36.627Z",
+    "volume_24h": 33969351.820482686,
+    "updated_at": "2022-10-03T23:55:32.994Z",
     "rank": 72
   },
   {
     "id": "gambling",
     "name": "Gambling",
-    "market_cap": 136866145.93713713,
-    "market_cap_change_24h": 2.0716796983620047,
+    "market_cap": 135868980.66671374,
+    "market_cap_change_24h": 1.124399349463751,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/761/small/funfair.png?1592404368",
       "https://assets.coingecko.com/coins/images/21173/small/Decentral_Games_Logo-1.png?1638441275",
       "https://assets.coingecko.com/coins/images/10251/small/logo.png?1610592699"
     ],
-    "volume_24h": 4008994.892812027,
-    "updated_at": "2022-10-04T05:22:41.346Z",
+    "volume_24h": 4206355.11348838,
+    "updated_at": "2022-10-03T23:55:53.347Z",
     "rank": 73
   },
   {
     "id": "social-money",
     "name": "Social Money",
-    "market_cap": 120718687.94534197,
-    "market_cap_change_24h": -6.190242402115179,
+    "market_cap": 123093610.24925624,
+    "market_cap_change_24h": 4.421507995749266,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12843/small/image.png?1611212077",
       "https://assets.coingecko.com/coins/images/14815/small/gcr.jpeg?1641461197",
       "https://assets.coingecko.com/coins/images/11797/small/WHALE.png?1595004706"
     ],
-    "volume_24h": 4595833.224166274,
-    "updated_at": "2022-10-04T05:18:40.083Z",
+    "volume_24h": 6359864.343626016,
+    "updated_at": "2022-10-03T23:56:40.465Z",
     "rank": 74
   },
   {
     "id": "heco-chain-ecosystem",
     "name": "HECO Chain Ecosystem",
-    "market_cap": 118259756.49034953,
-    "market_cap_change_24h": 1.635462685809096,
+    "market_cap": 117821704.45947768,
+    "market_cap_change_24h": -1.2873480300229179,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/13775/small/mdex.png?1611739676",
       "https://assets.coingecko.com/coins/images/12704/small/token.png?1601876182",
       "https://assets.coingecko.com/coins/images/13751/small/autofarm_icon_200x200.png?1611494288"
     ],
-    "volume_24h": 7574352.840620605,
-    "updated_at": "2022-10-04T05:23:04.200Z",
+    "volume_24h": 7752256.1096984325,
+    "updated_at": "2022-10-03T23:56:16.747Z",
     "rank": 75
   },
   {
     "id": "synths",
     "name": "Synths",
-    "market_cap": 108527038.14642099,
-    "market_cap_change_24h": 1.3618188593435963,
+    "market_cap": 108261314.35097714,
+    "market_cap_change_24h": 1.16420432246015,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/5013/small/sUSD.png?1616150765",
       "https://assets.coingecko.com/coins/images/8838/small/sBTC.png?1616149734",
       "https://assets.coingecko.com/coins/images/8843/small/sETH.png?1616150207"
     ],
-    "volume_24h": 3382345.366378586,
-    "updated_at": "2022-10-04T05:23:48.073Z",
+    "volume_24h": 3611427.270316614,
+    "updated_at": "2022-10-03T23:56:33.053Z",
     "rank": 76
   },
   {
     "id": "tourism",
     "name": "Tourism",
-    "market_cap": 93779765.10659193,
-    "market_cap_change_24h": 3.103250031156468,
+    "market_cap": 93440098.94235654,
+    "market_cap_change_24h": 0.9248015491708487,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/4659/small/qX7fh69Q_400x400-1.jpg?1636680685",
       "https://assets.coingecko.com/coins/images/3014/small/Travala.png?1558020611",
       "https://assets.coingecko.com/coins/images/1357/small/LOC_Transparent_New.png?1579491094"
     ],
-    "volume_24h": 4953315.863678289,
-    "updated_at": "2022-10-04T05:19:01.545Z",
+    "volume_24h": 4928554.954518351,
+    "updated_at": "2022-10-03T23:56:46.431Z",
     "rank": 77
   },
   {
     "id": "ohm-fork",
     "name": "Ohm Fork",
-    "market_cap": 81442103.53746866,
-    "market_cap_change_24h": 1.5642742778567502,
+    "market_cap": 82194443.28995913,
+    "market_cap_change_24h": 1.2141216754638864,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/19947/small/sb.png?1636337110",
       "https://assets.coingecko.com/coins/images/19169/small/klima-logo.png?1634606729",
       "https://assets.coingecko.com/coins/images/18126/small/time.PNG?1630621941"
     ],
-    "volume_24h": 88450.51650389895,
-    "updated_at": "2022-10-04T05:23:30.037Z",
+    "volume_24h": 68081.54313577803,
+    "updated_at": "2022-10-03T23:56:27.496Z",
     "rank": 78
   },
   {
     "id": "defi-index",
     "name": "DeFi Index",
-    "market_cap": 69207680.46670443,
-    "market_cap_change_24h": 4.765258230577841,
+    "market_cap": 69126827.63459209,
+    "market_cap_change_24h": 4.642864765317893,
     "content": null,
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/12465/small/defi_pulse_index_set.png?1600051053",
       "https://assets.coingecko.com/coins/images/14392/small/ETH2x-FLI_%281%29.png?1615875910",
       "https://assets.coingecko.com/coins/images/24483/small/icETH-token-logo.png?1647826356"
     ],
-    "volume_24h": 1418581.613447741,
-    "updated_at": "2022-10-04T05:21:04.869Z",
+    "volume_24h": 1379027.0837389184,
+    "updated_at": "2022-10-04T00:00:01.008Z",
     "rank": 79
   },
   {
     "id": "kardiachain-ecosystem",
     "name": "KardiaChain Ecosystem",
-    "market_cap": 37766283.760523506,
-    "market_cap_change_24h": -0.2303119697347282,
+    "market_cap": 37607196.821958296,
+    "market_cap_change_24h": 1.0302785580172054,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/7942/small/kai.png?1647079540",
       "https://assets.coingecko.com/coins/images/15321/small/mydefi.PNG?1620512455",
       "https://assets.coingecko.com/coins/images/17761/small/icon_%287%29.png?1629187241"
     ],
-    "volume_24h": 4974061.327192862,
-    "updated_at": "2022-10-04T05:18:57.949Z",
+    "volume_24h": 5036883.672407158,
+    "updated_at": "2022-10-03T23:56:45.761Z",
     "rank": 80
   },
   {
     "id": "farming-as-a-service-faas",
     "name": "Farming-as-a-Service (FaaS)",
-    "market_cap": 15008611.505235728,
-    "market_cap_change_24h": 5.907654519426474,
+    "market_cap": 14691254.845098685,
+    "market_cap_change_24h": 4.013426923532007,
     "content": "",
     "top_3_coins": [
       "https://assets.coingecko.com/coins/images/21543/small/refi.PNG?1639451123",
-      "https://assets.coingecko.com/coins/images/21221/small/2022-07-13_18.49.44.jpg?1657709418",
-      "https://assets.coingecko.com/coins/images/23551/small/Logo-Digits-DAO-Icon-01.jpg?1644462126"
+      "https://assets.coingecko.com/coins/images/23551/small/Logo-Digits-DAO-Icon-01.jpg?1644462126",
+      "https://assets.coingecko.com/coins/images/21221/small/2022-07-13_18.49.44.jpg?1657709418"
     ],
-    "volume_24h": 37943.995092677,
-    "updated_at": "2022-10-04T05:19:16.548Z",
+    "volume_24h": 33437.17866777549,
+    "updated_at": "2022-10-03T23:56:50.209Z",
     "rank": 81
   },
   {
@@ -1221,12 +1221,12 @@
     "market_cap_change_24h": 0,
     "content": null,
     "top_3_coins": [
-      "https://assets.coingecko.com/coins/images/11733/small/aSNX.png?1593085047",
-      "https://assets.coingecko.com/coins/images/11731/small/aMKR.png?1593084715",
-      "https://assets.coingecko.com/coins/images/11735/small/aZRX.png?1593085371"
+      "https://assets.coingecko.com/coins/images/11619/small/aETH_2x.png?1591976597",
+      "https://assets.coingecko.com/coins/images/11674/small/aUSDC.png?1592546449",
+      "https://assets.coingecko.com/coins/images/10843/small/aDAI.png?1584698791"
     ],
-    "volume_24h": 2136036.625968337,
-    "updated_at": "2022-10-04T05:23:50.880Z",
+    "volume_24h": 2189994.352887451,
+    "updated_at": "2022-10-03T23:56:33.878Z",
     "rank": 82
   },
   {
@@ -1236,12 +1236,12 @@
     "market_cap_change_24h": 0,
     "content": null,
     "top_3_coins": [
-      "https://assets.coingecko.com/coins/images/19339/small/bito_ticker_lg.png?1635218957",
+      "https://assets.coingecko.com/coins/images/14780/small/NukbRo-E_400x400.png?1618386481",
       "https://assets.coingecko.com/coins/images/14881/small/NukbRo-E_400x400.png?1618888501",
-      "https://assets.coingecko.com/coins/images/14780/small/NukbRo-E_400x400.png?1618386481"
+      "https://assets.coingecko.com/coins/images/19339/small/bito_ticker_lg.png?1635218957"
     ],
-    "volume_24h": 103535.17026557575,
-    "updated_at": "2022-10-04T05:23:28.469Z",
+    "volume_24h": 133981.10377755435,
+    "updated_at": "2022-10-03T23:56:26.826Z",
     "rank": 83
   }
 ]
